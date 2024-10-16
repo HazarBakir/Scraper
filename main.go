@@ -2,7 +2,9 @@ package main
 
 import (
 	"fmt"
+
 	"github.com/HazarBakir/ScraperTool/handlers"
+	// "github.com/HazarBakir/ScraperTool/modules"
 	"github.com/gocolly/colly"
 )
 
